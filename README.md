@@ -1,1 +1,12 @@
-# Toby-
+# Documentation
+
+## Intended audience
+Like the alternative americamps, this website is designed to get people to register and apply if they are interested in participating in an eventful vacation where they travel to the destined location and work. The participants have to be over the age of 18 as they usually travel without the guidance of parents or carers. The intended age group of the actual camp is 18-25 however the website is also designed for parents or carers to judge whether their child is eligible. The price is fairly cheap as the total averages about £279. This means that not only families with a large amount of money are eligible, rather individuals with a lower amount of disposable income can also apply.
+## What are you doing?
+I am creating a website in which advertises Camp China to persuade users to participate and informing them  on the details necessary such as the price, locations, transportation etc. This means that they do not have to bother with primary research to apply rather they can just apply online without having to budge. To start with however I came up with multiple designs for both PC and tablet whilst carrying out risk assessments to ensure everything goes to the plan. Currently, I’m working on the remaining three pages whilst the home page is complete and responsive.
+## What are you aiming to achieve?
+I am aiming to achieve a website in which all pages of the website is responsive in order for it to acquire the professional standard identity. I also want my website to consist of five pages of which involve the home page, travel, gallery, contact and the brochure which has a printout function. I want the website to have as minimal bugs and errors which is where I carry out a maintenance on the website to remove any discovered bugs. I need the website to perform well and run smoothly whilst being accessible and I can test this by running audits. The results from the audits carried out will determine how I will respond and improve the website.
+## Constraints
+I used a video as a background which limits the bandwidth availability thus affecting my web performance. This may lead to visitors losing patience and eventually backing out of the application process. Therefore, the website may receive less visitors which affects the SsEO drastically and can lead to the destruction of the website. However, I have prepared for this and made the majority of my scripts run client side to alleviate some of the burden on the server to the users browser.
+
+## Benefits
